@@ -25,6 +25,8 @@ To get a local copy up and running follow these simple example steps.
 
 * [Download](https://github.com/kensayo/captsonetheaterreservation-frontend/archive/refs/heads/development.zip) and unzip **or** [clone this repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
+* You also need the back end server, you can find it [here](https://github.com/kensayo/hello-rails-back-end)
+
 
 ## Setup
 
