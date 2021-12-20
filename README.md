@@ -1,56 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Crypto Capstone
+# Greetings! (Front End)
 
-> Display coins and price, show details when click on each coin.
+>  Simple Rails + React app where we display greetings messages using a API created on Rails and frontend using React
 
-![](./screenshot/screenshot.png)
+## Main Page
 
+![Screenshot](./screenshot.png)
 
-## 👷🏻 Built using
-    - React
-    - JavaScript
-    - Redux
-    - VSCode
-    - GIT
+### Built using
     - Github
-    - CSS
-    - Linters
+    - RubyMine
+    - CSS3
+    - React
+    - Redux
 
-
-## 🚩 Getting Started
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### ✅ Prerequisites
+## Prerequisites
 
-* Make sure that **Node JS** is installed in your computer (try to run _npm -v_ from your prompt), if not you can install it from [here.](https://nodejs.org/en/download/)
+* Make sure that **Node JS** is installed in your computer.
+
+* [Download](https://github.com/kensayo/captsonetheaterreservation-frontend/archive/refs/heads/development.zip) and unzip **or** [clone this repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
-* [Download](https://github.com/kensayo/hello-world-frontend/archive/refs/heads/development.zip) and unzip **or** [clone this repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+## Setup
+
+- After clone or download the repository move to the root of the proyect
+- Open a terminal there and run the next commands
+```
+// Install dependecies
+npm install
+// Start the server
+npm start
+```
+
+## Usage
+
+- Just go to [http://localhost:3000/](http://localhost:3000/)
 
 
-### 👨🏻‍🔧 Setup
-
-- Open your terminal and move to the root of the project, using ```$ cd``` command.
-- Run ```$ npm install``` to install all dependencies.
-- You must run ```$ npm start``` to start live server
-- Then your browser will open a local copy
-
-### 🔌 Usage
-
-- You can go to http://127.0.0.1:3000/ to use the app locally
-
-## Author
-
-### 👨🏻‍💻 Kenny Ortega
+## 👤 Kenny Ortega
 
 - GitHub: [kensayo](https://github.com/kensayo)
 - Twitter: [@kensayo](https://twitter.com/kensayo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kennyortega/)
-  
 
-### 🤝🏻 Contributions and issues are welcome!
 
-License
-This project is [MIT](./MIT.md) licensed.
+## Contributions and issues are welcome!
+
